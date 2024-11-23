@@ -4,3 +4,5 @@ numpy
 matplotlib
 jupyter
 pandas
+opencv-python
+openai
