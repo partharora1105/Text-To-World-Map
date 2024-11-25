@@ -1,8 +1,14 @@
 torch
 scikit-learn
+scikit-image
 numpy
 matplotlib
 jupyter
 pandas
 opencv-python
 openai
+torchvision
+transformers
+tensorflow
+
+
