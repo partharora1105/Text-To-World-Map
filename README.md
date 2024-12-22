@@ -1,4 +1,4 @@
-# Text-To-World-Map: README
+# Text-To-World-Map
 
 ## Overview
 Text-To-World-Map is a project designed to generate spatially accurate maps from text input. It processes textual descriptions of buildings or areas to create structured map layouts, enabling users to visualize and organize spaces effectively. Trained on data sourced from Google Maps, it serves as a stepping stone for integrating spatial understanding into 3D scene generation. With the rapid advancements in text-to-3D modeling, this tool bridges the gap between textual input and 3D world-building. The generated maps can guide the placement of objects within scenes, making it a valuable resource for creating coherent virtual environments. Additionally, this project could be deployed as a Flask app, enabling API calls for seamless integration. In the future, tools like Unity or Blender could directly leverage this functionality to generate entire scenes.
