@@ -9,7 +9,7 @@ You can set up the project using either `setup.sh` or `requirements.txt`.
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/partharora1105/Text-To-World-Map/
    cd Text-To-World-Map
    ```
 2. Run the setup script or install dependencies:
